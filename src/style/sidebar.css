@@ -1,0 +1,18 @@
+.cutom{
+    font-size: 17px;
+}
+.fomi{
+    color: #707793;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.asdf{
+    display: flex;
+
+}
+.demo-logo-vertical{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}

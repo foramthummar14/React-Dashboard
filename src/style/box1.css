@@ -1,0 +1,78 @@
+.topic{
+   display: flex;
+   justify-items: center;
+    align-items: center;
+    border: 1px solid #dcf4f3;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+    background-color: #dcf4f3;
+    color: #4ecac2;
+}
+.topic1{
+     display: flex;
+   justify-items: center;
+    align-items: center;
+    border: 1px solid #dcf4f3;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+    background-color: #d2e6fc;
+    color: #1c84ee;
+}
+.topic2{
+     display: flex;
+   justify-items: center;
+    align-items: center;
+    border: 1px solid #dcf4f3;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+    background-color: #b6ecca;
+    color:#22c55e;
+}
+.topic3{
+     display: flex;
+   justify-items: center;
+    align-items: center;
+    border: 1px solid #dcf4f3;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    padding: 20px;
+    background-color:#fef1d6;
+    color: #f9b931;
+}
+
+.wal{
+    /* margin-top: 10px; */
+    border: 1px solid #d7f5e2;
+    border-radius: 4px;
+    padding: 2px 7px;
+    background-color: #d7f5e2;
+    color: #22c789;
+}
+.walred{
+    border: 1px solid #d7f5e2;
+    border-radius: 4px;
+    padding: 2px 7px;
+    background-color: #d7f5e2;
+    color: #22c789;
+}
+.walt{
+    color: #5d7186;
+}
+.kk{
+    padding-top: 20px;
+    color: #313b5e;
+}
+.box1set{
+    display: flex;
+    /* justify-content: center; */
+    align-content: center;
+    align-items: center;
+    gap: 70px;
+}

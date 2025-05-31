@@ -1,0 +1,20 @@
+
+.alm{
+    color: #678287;
+    border: 1px solid #678287;
+    &:hover{
+        background-color:#eef2f7;
+        color: black;
+    }
+}
+.setbt{
+    display: flex;
+    gap: 10px;
+}
+.derf{
+    display: flex;
+    justify-content: space-between;
+}
+.re{
+color: #6782a6;
+}

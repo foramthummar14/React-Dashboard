@@ -1,0 +1,23 @@
+.setheder{
+    display: flex;
+    gap: 750px;
+    align-items: center;
+    color: #707793;
+    /* justify-content: space-around; */
+}
+.setavt{
+    border-radius: 50px;
+    height: 30px;
+}
+.ben{
+    display: flex;
+    gap: 15px;
+
+}
+.imui{
+    cursor: pointer;
+    /* background-color: #b5b9c8; */
+&:hover{
+    color: rgb(70, 70, 238);
+}
+}
